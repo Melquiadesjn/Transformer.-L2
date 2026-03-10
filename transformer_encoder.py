@@ -1,4 +1,4 @@
-# refatora em classes: SelfAttention, FeedForward, EncoderLayer
+# passo 3: TransformerEncoder empilha 6 camadas
 import numpy as np
 import pandas as pd
 
