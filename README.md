@@ -43,3 +43,8 @@ Durante o desenvolvimento, Claude (Anthropic) foi consultado para esclarecer
 duvidas de sintaxe do numpy (broadcasting, np.matmul, np.mean/var com axis=-1).
 A logica, estrutura das classes e implementacao das equacoes foram desenvolvidas
 pelo autor.
+
+
+---
+
+versao: v1.0
