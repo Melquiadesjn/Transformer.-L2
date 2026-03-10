@@ -1,4 +1,4 @@
-# passo 2.3: feed-forward network com ReLU
+# refatora em classes: SelfAttention, FeedForward, EncoderLayer
 import numpy as np
 import pandas as pd
 
