@@ -1,4 +1,4 @@
-# passo 2.1: scaled dot-product attention com softmax
+# passo 2.2: layer normalization e conexao residual
 import numpy as np
 import pandas as pd
 
