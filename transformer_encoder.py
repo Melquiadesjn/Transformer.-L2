@@ -1,4 +1,4 @@
-# passo 2.2: layer normalization e conexao residual
+# passo 2.3: feed-forward network com ReLU
 import numpy as np
 import pandas as pd
 
