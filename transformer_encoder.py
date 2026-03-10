@@ -1,3 +1,4 @@
+# passo 2.1: scaled dot-product attention com softmax
 import numpy as np
 import pandas as pd
 
